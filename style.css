@@ -1,0 +1,10 @@
+.navbar-menu {
+ 	background-color:  #ed1f24!important;
+}
+.child-navbar-menu {
+	margin: 0 auto; display: block;
+}
+
+.nav-link{
+	color: #fff!important;
+}
